@@ -9,7 +9,7 @@ from GUI.Func_Win_Test import Win_Test
 if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
 
-    w = Win_ApplyFilter()
+    w = Win_ApplyFilter()  # 更改这里临时切换界面
     w.show()
 
     sys.exit(app.exec_())
