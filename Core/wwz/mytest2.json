@@ -1,0 +1,44 @@
+{
+    "WindowSize": [450, 450],
+
+    "Detector": {
+        "Position": [120, 0, 0, "mm"],
+        "UpVector": [0, 0, -1],
+        "NumberOfPixels" : [1200,1200],
+        "Size" : [300,300, "mm"],
+        "Energy response":{
+            "File" :"responseDetector.txt",
+            "Energy": "MeV"
+        } 
+    },
+    
+    "Source": {
+        "Position": [-120, 0.0, 0.0, "mm"],
+        "Shape": "Point",
+        "Beam": {
+            "TextFile" : "test.txt",
+            "Unit" : "keV"
+        }
+    },
+
+    "Samples": [
+        {
+            "Label": "Ball",
+            "Path": "test.STL",
+            "Unit": "mm",
+            "Material": ["mixture", "Ti90Al6V4"],
+            "Density" : 5,
+            "Type" : "inner" ,
+            "Colour" : [0, 0, 0, 1]
+        }
+    ],
+    
+    "Scan": {
+        "NumberOfProjections": 20,
+        "FinalAngle": 360,
+        "IncludeFinalAngle": false,
+        "CenterOfRotation": [0,0,0],
+        "OutFolder": "./hello22",
+        "OutPath": "./output_data"
+    }    
+}

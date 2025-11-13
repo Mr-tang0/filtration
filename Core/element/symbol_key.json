@@ -1,0 +1,462 @@
+{
+  "H": {
+    "atomic_number": 1,
+    "density": 0.00008988,
+    "english_name": "Hydrogen"
+  },
+  "He": {
+    "atomic_number": 2,
+    "density": 0.0001786,
+    "english_name": "Helium"
+  },
+  "Li": {
+    "atomic_number": 3,
+    "density": 0.534,
+    "english_name": "Lithium"
+  },
+  "Be": {
+    "atomic_number": 4,
+    "density": 1.848,
+    "english_name": "Beryllium"
+  },
+  "B": {
+    "atomic_number": 5,
+    "density": 2.34,
+    "english_name": "Boron"
+  },
+  "C": {
+    "atomic_number": 6,
+    "density": 2.267,
+    "english_name": "Carbon"
+  },
+  "N": {
+    "atomic_number": 7,
+    "density": 0.0012506,
+    "english_name": "Nitrogen"
+  },
+  "O": {
+    "atomic_number": 8,
+    "density": 0.001429,
+    "english_name": "Oxygen"
+  },
+  "F": {
+    "atomic_number": 9,
+    "density": 0.001696,
+    "english_name": "Fluorine"
+  },
+  "Ne": {
+    "atomic_number": 10,
+    "density": 0.0008999,
+    "english_name": "Neon"
+  },
+  "Na": {
+    "atomic_number": 11,
+    "density": 0.968,
+    "english_name": "Sodium"
+  },
+  "Mg": {
+    "atomic_number": 12,
+    "density": 1.738,
+    "english_name": "Magnesium"
+  },
+  "Al": {
+    "atomic_number": 13,
+    "density": 2.70,
+    "english_name": "Aluminum"
+  },
+  "Si": {
+    "atomic_number": 14,
+    "density": 2.329,
+    "english_name": "Silicon"
+  },
+  "P": {
+    "atomic_number": 15,
+    "density": 1.823,
+    "english_name": "Phosphorus"
+  },
+  "S": {
+    "atomic_number": 16,
+    "density": 2.069,
+    "english_name": "Sulfur"
+  },
+  "Cl": {
+    "atomic_number": 17,
+    "density": 0.003214,
+    "english_name": "Chlorine"
+  },
+  "Ar": {
+    "atomic_number": 18,
+    "density": 0.0017837,
+    "english_name": "Argon"
+  },
+  "K": {
+    "atomic_number": 19,
+    "density": 0.856,
+    "english_name": "Potassium"
+  },
+  "Ca": {
+    "atomic_number": 20,
+    "density": 1.54,
+    "english_name": "Calcium"
+  },
+  "Sc": {
+    "atomic_number": 21,
+    "density": 2.985,
+    "english_name": "Scandium"
+  },
+  "Ti": {
+    "atomic_number": 22,
+    "density": 4.506,
+    "english_name": "Titanium"
+  },
+  "V": {
+    "atomic_number": 23,
+    "density": 6.11,
+    "english_name": "Vanadium"
+  },
+  "Cr": {
+    "atomic_number": 24,
+    "density": 7.14,
+    "english_name": "Chromium"
+  },
+  "Mn": {
+    "atomic_number": 25,
+    "density": 7.47,
+    "english_name": "Manganese"
+  },
+  "Fe": {
+    "atomic_number": 26,
+    "density": 7.874,
+    "english_name": "Iron"
+  },
+  "Co": {
+    "atomic_number": 27,
+    "density": 8.86,
+    "english_name": "Cobalt"
+  },
+  "Ni": {
+    "atomic_number": 28,
+    "density": 8.908,
+    "english_name": "Nickel"
+  },
+  "Cu": {
+    "atomic_number": 29,
+    "density": 8.96,
+    "english_name": "Copper"
+  },
+  "Zn": {
+    "atomic_number": 30,
+    "density": 7.134,
+    "english_name": "Zinc"
+  },
+  "Ga": {
+    "atomic_number": 31,
+    "density": 5.904,
+    "english_name": "Gallium"
+  },
+  "Ge": {
+    "atomic_number": 32,
+    "density": 5.323,
+    "english_name": "Germanium"
+  },
+  "As": {
+    "atomic_number": 33,
+    "density": 5.727,
+    "english_name": "Arsenic"
+  },
+  "Se": {
+    "atomic_number": 34,
+    "density": 4.819,
+    "english_name": "Selenium"
+  },
+  "Br": {
+    "atomic_number": 35,
+    "density": 3.122,
+    "english_name": "Bromine"
+  },
+  "Kr": {
+    "atomic_number": 36,
+    "density": 0.003733,
+    "english_name": "Krypton"
+  },
+  "Rb": {
+    "atomic_number": 37,
+    "density": 1.532,
+    "english_name": "Rubidium"
+  },
+  "Sr": {
+    "atomic_number": 38,
+    "density": 2.63,
+    "english_name": "Strontium"
+  },
+  "Y": {
+    "atomic_number": 39,
+    "density": 4.472,
+    "english_name": "Yttrium"
+  },
+  "Zr": {
+    "atomic_number": 40,
+    "density": 6.511,
+    "english_name": "Zirconium"
+  },
+  "Nb": {
+    "atomic_number": 41,
+    "density": 8.57,
+    "english_name": "Niobium"
+  },
+  "Mo": {
+    "atomic_number": 42,
+    "density": 10.28,
+    "english_name": "Molybdenum"
+  },
+  "Tc": {
+    "atomic_number": 43,
+    "density": 11.5,
+    "english_name": "Technetium"
+  },
+  "Ru": {
+    "atomic_number": 44,
+    "density": 12.37,
+    "english_name": "Ruthenium"
+  },
+  "Rh": {
+    "atomic_number": 45,
+    "density": 12.45,
+    "english_name": "Rhodium"
+  },
+  "Pd": {
+    "atomic_number": 46,
+    "density": 12.02,
+    "english_name": "Palladium"
+  },
+  "Ag": {
+    "atomic_number": 47,
+    "density": 10.49,
+    "english_name": "Silver"
+  },
+  "Cd": {
+    "atomic_number": 48,
+    "density": 8.65,
+    "english_name": "Cadmium"
+  },
+  "In": {
+    "atomic_number": 49,
+    "density": 7.31,
+    "english_name": "Indium"
+  },
+  "Sn": {
+    "atomic_number": 50,
+    "density": 7.265,
+    "english_name": "Tin"
+  },
+  "Sb": {
+    "atomic_number": 51,
+    "density": 6.697,
+    "english_name": "Antimony"
+  },
+  "Te": {
+    "atomic_number": 52,
+    "density": 6.24,
+    "english_name": "Tellurium"
+  },
+  "I": {
+    "atomic_number": 53,
+    "density": 4.933,
+    "english_name": "Iodine"
+  },
+  "Xe": {
+    "atomic_number": 54,
+    "density": 0.005894,
+    "english_name": "Xenon"
+  },
+  "Cs": {
+    "atomic_number": 55,
+    "density": 1.879,
+    "english_name": "Cesium"
+  },
+  "Ba": {
+    "atomic_number": 56,
+    "density": 3.51,
+    "english_name": "Barium"
+  },
+  "La": {
+    "atomic_number": 57,
+    "density": 6.146,
+    "english_name": "Lanthanum"
+  },
+  "Ce": {
+    "atomic_number": 58,
+    "density": 6.689,
+    "english_name": "Cerium"
+  },
+  "Pr": {
+    "atomic_number": 59,
+    "density": 6.64,
+    "english_name": "Praseodymium"
+  },
+  "Nd": {
+    "atomic_number": 60,
+    "density": 7.01,
+    "english_name": "Neodymium"
+  },
+  "Pm": {
+    "atomic_number": 61,
+    "density": 7.26,
+    "english_name": "Promethium"
+  },
+  "Sm": {
+    "atomic_number": 62,
+    "density": 7.353,
+    "english_name": "Samarium"
+  },
+  "Eu": {
+    "atomic_number": 63,
+    "density": 5.244,
+    "english_name": "Europium"
+  },
+  "Gd": {
+    "atomic_number": 64,
+    "density": 7.901,
+    "english_name": "Gadolinium"
+  },
+  "Tb": {
+    "atomic_number": 65,
+    "density": 8.219,
+    "english_name": "Terbium"
+  },
+  "Dy": {
+    "atomic_number": 66,
+    "density": 8.551,
+    "english_name": "Dysprosium"
+  },
+  "Ho": {
+    "atomic_number": 67,
+    "density": 8.795,
+    "english_name": "Holmium"
+  },
+  "Er": {
+    "atomic_number": 68,
+    "density": 9.066,
+    "english_name": "Erbium"
+  },
+  "Tm": {
+    "atomic_number": 69,
+    "density": 9.321,
+    "english_name": "Thulium"
+  },
+  "Yb": {
+    "atomic_number": 70,
+    "density": 6.57,
+    "english_name": "Ytterbium"
+  },
+  "Lu": {
+    "atomic_number": 71,
+    "density": 9.841,
+    "english_name": "Lutetium"
+  },
+  "Hf": {
+    "atomic_number": 72,
+    "density": 13.31,
+    "english_name": "Hafnium"
+  },
+  "Ta": {
+    "atomic_number": 73,
+    "density": 16.65,
+    "english_name": "Tantalum"
+  },
+  "W": {
+    "atomic_number": 74,
+    "density": 19.25,
+    "english_name": "Tungsten"
+  },
+  "Re": {
+    "atomic_number": 75,
+    "density": 21.02,
+    "english_name": "Rhenium"
+  },
+  "Os": {
+    "atomic_number": 76,
+    "density": 22.59,
+    "english_name": "Osmium"
+  },
+  "Ir": {
+    "atomic_number": 77,
+    "density": 22.56,
+    "english_name": "Iridium"
+  },
+  "Pt": {
+    "atomic_number": 78,
+    "density": 21.45,
+    "english_name": "Platinum"
+  },
+  "Au": {
+    "atomic_number": 79,
+    "density": 19.3,
+    "english_name": "Gold"
+  },
+  "Hg": {
+    "atomic_number": 80,
+    "density": 13.534,
+    "english_name": "Mercury"
+  },
+  "Tl": {
+    "atomic_number": 81,
+    "density": 11.85,
+    "english_name": "Thallium"
+  },
+  "Pb": {
+    "atomic_number": 82,
+    "density": 11.34,
+    "english_name": "Lead"
+  },
+  "Bi": {
+    "atomic_number": 83,
+    "density": 9.78,
+    "english_name": "Bismuth"
+  },
+  "Po": {
+    "atomic_number": 84,
+    "density": 9.196,
+    "english_name": "Polonium"
+  },
+  "At": {
+    "atomic_number": 85,
+    "density": 6.35,
+    "english_name": "Astatine"
+  },
+  "Rn": {
+    "atomic_number": 86,
+    "density": 0.00973,
+    "english_name": "Radon"
+  },
+  "Fr": {
+    "atomic_number": 87,
+    "density": 1.87,
+    "english_name": "Francium"
+  },
+  "Ra": {
+    "atomic_number": 88,
+    "density": 5.5,
+    "english_name": "Radium"
+  },
+  "Ac": {
+    "atomic_number": 89,
+    "density": 10.07,
+    "english_name": "Actinium"
+  },
+  "Th": {
+    "atomic_number": 90,
+    "density": 11.72,
+    "english_name": "Thorium"
+  },
+  "Pa": {
+    "atomic_number": 91,
+    "density": 15.37,
+    "english_name": "Protactinium"
+  },
+  "U": {
+    "atomic_number": 92,
+    "density": 19.05,
+    "english_name": "Uranium"
+  }
+}
